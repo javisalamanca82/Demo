@@ -1,1 +1,2 @@
 Hello folks from file 2
+Another developer writes line 2
